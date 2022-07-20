@@ -1,0 +1,2 @@
+[playlist_link],[folder_name]
+https://youtube.com/playlist?list=PLYy3VZIq21vIeIa-J6s7NU27DUgqDJhHA,music_dled
